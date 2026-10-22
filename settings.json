@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "NodexSMP.aternos.me",
+    "port": 21093,
     "version": "",
     "try-creative": false
   },
